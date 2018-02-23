@@ -1,1 +1,2 @@
-# Neural Networks with Numpy: Initialization, Regularization, Optimization, Mini-Batches
+# Neural Networks with Numpy: 
+Added features such as Initialization, Regularization, Optimization, Mini-Batches, etc.
